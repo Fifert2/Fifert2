@@ -4,7 +4,7 @@ Computer Science student building secure infrastructure, automation,
 cybersecurity labs, and human-centered AI tools.
 
 Currently:
-- Operating an Unraid-based private cloud and security lab
+- Operating an Unraid based NAS with a private cloud network and cyber-security labs
 - Practicing SIEM analysis with Wazuh and Splunk
 - Building infrastructure, networking, and automation projects
 - Seeking Summer 2027 IT, infrastructure, and cybersecurity internships
